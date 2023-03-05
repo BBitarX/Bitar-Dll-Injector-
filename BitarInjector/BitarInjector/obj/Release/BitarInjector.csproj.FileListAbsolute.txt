@@ -1,0 +1,13 @@
+C:\Users\user\source\demos\BitarInjector\BitarInjector\bin\Release\BitarInjector.exe.config
+C:\Users\user\source\demos\BitarInjector\BitarInjector\bin\Release\BitarInjector.exe
+C:\Users\user\source\demos\BitarInjector\BitarInjector\bin\Release\BitarInjector.pdb
+C:\Users\user\source\demos\BitarInjector\BitarInjector\bin\Release\DrakeUI.Framework.dll
+C:\Users\user\source\demos\BitarInjector\BitarInjector\obj\Release\BitarInjector.csproj.AssemblyReference.cache
+C:\Users\user\source\demos\BitarInjector\BitarInjector\obj\Release\BitarInjector.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\demos\BitarInjector\BitarInjector\obj\Release\BitarInjector.MainForm.resources
+C:\Users\user\source\demos\BitarInjector\BitarInjector\obj\Release\BitarInjector.Properties.Resources.resources
+C:\Users\user\source\demos\BitarInjector\BitarInjector\obj\Release\BitarInjector.csproj.GenerateResource.cache
+C:\Users\user\source\demos\BitarInjector\BitarInjector\obj\Release\BitarInjector.csproj.CoreCompileInputs.cache
+C:\Users\user\source\demos\BitarInjector\BitarInjector\obj\Release\BitarInjector.csproj.CopyComplete
+C:\Users\user\source\demos\BitarInjector\BitarInjector\obj\Release\BitarInjector.exe
+C:\Users\user\source\demos\BitarInjector\BitarInjector\obj\Release\BitarInjector.pdb
